@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "develop branch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitpal2001/builder-app-be.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohitpal2001/builder-app-be/issues"
+  },
+  "homepage": "https://github.com/mohitpal2001/builder-app-be#readme"
 }
